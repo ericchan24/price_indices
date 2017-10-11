@@ -1,4 +1,4 @@
-# price_indices
+# How expensive is your city?
 I built a model to predict how expensive it is to live in any city in the world. The model was built using price indices from over 300 cities and prices for 50 items in each city.  
 I scraped the data from [expatistan](https://www.expatistan.com/cost-of-living) using BeautifulSoup.  
 
