@@ -2,7 +2,7 @@
 I built a model to predict how expensive it is to live in any city in the world. The model was built using price indices from over 300 cities and prices for 50 items in each city.  
 I scraped the data from [expatistan](https://www.expatistan.com/cost-of-living) using BeautifulSoup.  
 
-I used sklearn to perform a linear regression to get the weights of my final product.  
+I used sklearn to perform a linear regression to calculate the coefficients for my final result.  
 
 ---
 There are five files in this folder.  
