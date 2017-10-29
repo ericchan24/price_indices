@@ -12,3 +12,6 @@ There are five files in this folder.
 3. Reverse engineering the price index  
 4. Linear regression assumptions and evaluations  
 5. Tuning the model  
+___
+
+Here is a link to my [blog](https://ericchan24.squarespace.com/blog/2017/10/6/how-expensive-is-your-city) about the project.  
