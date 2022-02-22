@@ -93,7 +93,6 @@ def main():
 
     soup = BeautifulSoup(page,"html5lib")
 
-37041732
     cities_dict = defaultdict(list) 
     soup = create_soup_object(url)
     links = get_links(soup)
