@@ -1,11 +1,12 @@
 # How expensive is your city?
 I built a model to predict how expensive it is to live in any city in the world. The model was built using price indices from hundreds of cities and prices of dozens of items in each city.  
+
 I scraped the data from [expatistan](https://www.expatistan.com/cost-of-living) using BeautifulSoup.  
 
-I used TensorFlow to create a deep neural network (DNN) regression model.
+I used TensorFlow to create a deep neural network (DNN) regression model.  
+
 I used Streamlit to build a web app to showcase the results.
 
----
 There are three notebooks and two scripts in this proejct.    
 1. expatistan_web_scraping.ipynb  
   - notebook for web scraping to gather data
