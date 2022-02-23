@@ -37,7 +37,7 @@ showWarningOnDirectExecution = true
 # Default: 'info'
 # logLevel = "debug"
 [logger]
-level = “debug”
+level = "debug"
 
 
 [client]
